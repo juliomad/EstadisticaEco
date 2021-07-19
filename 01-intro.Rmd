@@ -18,7 +18,4 @@ kable(
   booktabs = TRUE
 )
 ```
-
-You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
-
-Y ESTO NO TIENE NADA QUE VER
+Y ESTO NO TIENE NADA QUE VER Nada pero nada
